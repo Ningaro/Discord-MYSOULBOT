@@ -1,4 +1,4 @@
-# Discord-SPAMBOT
+# Discord-MYSOULBOT
 
 Описание
 ---

@@ -3,7 +3,7 @@ const client = new Discord.Client();
 const config = require("./config.json");
 
 client.on('ready', () => {
-  console.log(`\nDiscord-MySoulBot v0.2-alpha запущен!\nВы авторизовались как ${client.user.tag}!`);
+  console.log(`\nDiscord-MySoulBot v0.3-alpha запущен!\nВы авторизовались как ${client.user.tag}!`);
 });
 
 

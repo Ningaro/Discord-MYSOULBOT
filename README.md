@@ -1,1 +1,1 @@
-# ⚠️ Тестовая ветка Discord-MYSOULBOT :warning:
+# :warning: Тестовая ветка Discord-MYSOULBOT :warning:

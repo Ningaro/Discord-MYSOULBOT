@@ -1,7 +1,5 @@
 # Discord-MYSOULBOT
 
-## Это тестовая ветка приложения!
-
 Описание
 ---
 Это бот для запуска на стороне клиента Discord, написан на [Discord.js](https://discord.js.org).
